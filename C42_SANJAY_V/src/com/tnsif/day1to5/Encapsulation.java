@@ -1,4 +1,4 @@
-package com.tnsif.day1;
+package com.tnsif.day1to5;
 
 public class Encapsulation {
 	String name;

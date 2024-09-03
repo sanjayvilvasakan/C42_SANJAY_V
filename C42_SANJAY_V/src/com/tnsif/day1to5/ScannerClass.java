@@ -1,4 +1,4 @@
-package com.tnsif.day1;
+package com.tnsif.day1to5;
 
 import java.util.Scanner;
 
