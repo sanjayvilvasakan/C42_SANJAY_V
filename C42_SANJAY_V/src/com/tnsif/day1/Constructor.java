@@ -6,17 +6,13 @@ public class Constructor {
 	int age;
 	String dept;
 	
-	
-	// Default Constructor
 		public Constructor() {
 			System.out.println("Default Constructor");
 		}
 		
-		//Parameterized Constructor
-		//use of this keyword
 		public Constructor(String ConstructorName, int ConstructorAge, String ConstructorDept) {
 			
-			this(); //calling default constructor
+			this();
 			
 			System.out.println("Parameterized Constructor");
 			this.name = ConstructorName;

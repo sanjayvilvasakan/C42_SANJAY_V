@@ -36,5 +36,5 @@ public class Encapsulation {
 		obj.setAge(22);
 		obj.setDept("CSE");
 		System.out.println(obj);
-	}	
+	}
 }
