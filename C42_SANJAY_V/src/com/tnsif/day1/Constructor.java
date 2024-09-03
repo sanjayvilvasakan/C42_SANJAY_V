@@ -7,7 +7,7 @@ public class Constructor {
 	String dept;
 	
 		public Constructor() {
-			System.out.println("Default Constructor");
+       		System.out.println("Default Constructor");
 		}
 		
 		public Constructor(String ConstructorName, int ConstructorAge, String ConstructorDept) {

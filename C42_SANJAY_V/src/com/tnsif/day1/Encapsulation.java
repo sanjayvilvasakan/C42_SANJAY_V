@@ -15,7 +15,7 @@ public class Encapsulation {
 		return age;
 	}
 	public void setAge(int age) {
-		this.age = age;
+		this.age = age; 
 	}
 	public String getDept() {
 		return dept;
