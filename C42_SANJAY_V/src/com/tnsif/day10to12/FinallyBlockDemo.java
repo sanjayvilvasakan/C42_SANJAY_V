@@ -1,4 +1,4 @@
-package com.tnsif.day10;
+package com.tnsif.day10to12;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

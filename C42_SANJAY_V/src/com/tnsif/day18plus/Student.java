@@ -1,4 +1,4 @@
-package com.tnsif.day16;
+package com.tnsif.day18plus;
 
 public class Student {
 

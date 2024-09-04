@@ -1,4 +1,4 @@
-package com.tnsif.day10;
+package com.tnsif.day10to12;
 
 public class TryCatchDemo {
 public static void main(String[] args) {

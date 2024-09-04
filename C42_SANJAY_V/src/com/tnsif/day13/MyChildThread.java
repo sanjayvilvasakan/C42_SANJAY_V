@@ -1,4 +1,4 @@
-package com.tnsif.day11;
+package com.tnsif.day13;
 
 public class MyChildThread extends Thread {
 	@Override

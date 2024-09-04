@@ -1,4 +1,4 @@
-package com.tnsif.day15;
+package com.tnsif.day17to18;
 
 public class Student implements Comparable 
 {
