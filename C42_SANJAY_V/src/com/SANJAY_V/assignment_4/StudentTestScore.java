@@ -1,4 +1,4 @@
-package com.SANJAY_V.assignment4;
+package com.SANJAY_V.assignment_4;
 
 import java.util.ArrayList;
 import java.util.Scanner;
