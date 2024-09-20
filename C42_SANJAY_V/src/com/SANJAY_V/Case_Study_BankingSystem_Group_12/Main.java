@@ -1,4 +1,4 @@
-package com.SANJAY_V.CaseStudy_BankingApplication;
+package com.SANJAY_V.Case_Study_BankingSystem_Group_12;
 
 import java.time.LocalDateTime;
 import java.util.InputMismatchException;
